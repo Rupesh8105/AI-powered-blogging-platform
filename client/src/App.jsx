@@ -127,8 +127,8 @@ function App() {
           </div>
 
           <div className="user">
-            <div className="avatar">A</div>
-            <span>Abhishek</span>
+            <div className="avatar">R</div>
+            <span>Rupesh</span>
           </div>
         </header>
 
